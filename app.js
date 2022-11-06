@@ -1,4 +1,7 @@
-console.log("Hello World!\n==========\n");
+class Book{
+    id;
+    title;
+    author;
+    hasRead;
+}
 
-// PROJECT Section
-console.log("PROJECT:\n==========\n");
